@@ -1,56 +1,68 @@
-<h2 align="left">Hi 👋! Ranith here</h2>
+<h1 align="center">Hi 👋, I'm Ranith</h1>
+<h3 align="center">A Passionate Java Developer | Backend Enthusiast | Software Engineering Explorer</h3>
 
-###
+---
+
+🌱 I’m deeply interested in **Software Development**, **Software Engineering**, and **Microservices Architecture**  
+💻 I have hands-on experience in **Java**, **Spring Boot**, and building **RESTful APIs**  
+🚀 Currently exploring cloud-native development and scalable backend solutions  
+🎯 My goal is to design efficient, robust, and maintainable backend systems  
+📫 Reach me at: ranithyadav1804@gmail.com
+
+---
+
+### 🛠️ Tech Stack & Tools
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ranith184&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-<!--   <img src="https://streak-stats.demolab.com?user=Ranith184&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  /> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ranith184&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,mongodb,hibernate,react,javascript,html,git,postman,jira" />
 </div>
 
-###
+---
 
+### 📊 GitHub Stats
 
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/jira/0052CC" height="30" alt="jira logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=hibernate" height="30" alt="hibernate logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="30" alt="postman logo"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ranith184&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranith184&layout=compact&theme=radical&langs_count=6" height="180"/>
 </div>
 
-###
+<!-- Optional streak stats -->
+<!--
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Ranith184&theme=radical&hide_border=false" />
+</p>
+-->
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+---
+
+### 🚀 Projects & Interests
+
+- 🔧 Building scalable microservices using **Spring Boot**
+- 🧠 Constantly learning about **system design**, **API security**, and **DevOps practices**
+- 🌐 Interested in creating **responsive web applications** using **ReactJS** and REST APIs
+
+---
+
+### 📬 Connect with Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/ranith-bochu-9347b0246/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:ranithyadav1804@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/ranith184" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  
 </div>
 
-###
+---
 
-<br clear="both">
+### 🧠 Fun Fact
 
+> "I believe great backend systems are invisible — they just work."
 
+---
 
-###
