@@ -3,7 +3,7 @@
 
 ---
 
-🌱 I’m deeply interested in **Software Development**, **Software Engineering**, and **Microservices Architecture**  
+🌱 I’m deeply interested in **Software Developer**, **DevOps Engineer** roles. 
 💻 I have hands-on experience in **Java**, **Spring Boot**, and building **RESTful APIs**  
 🚀 Currently exploring cloud-native development and scalable backend solutions  
 🎯 My goal is to design efficient, robust, and maintainable backend systems  
